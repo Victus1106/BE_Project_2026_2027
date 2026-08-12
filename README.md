@@ -1,5 +1,7 @@
 # BE Capstone Project
 
+## 🎥 Project Demonstration [![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/LLZSEM22tTs?si=Ve9w69eN5hiVtP-J)
+
 # EOG-Based 3D Target Selection and Robotic Manipulator Control System Using Eye Movements and Blink Detection
 
 ---
