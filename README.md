@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview .
 
 This project presents a **low-cost Electrooculography (EOG)-based human–machine interaction system** that uses eye movements and blink detection to control a virtual 3D target-selection environment and generate commands for a robotic manipulator.
 
