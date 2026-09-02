@@ -24,7 +24,7 @@ The system provides a foundation for low-cost assistive technology, rehabilitati
 
 ---
 
-# 👥 Team Details
+# 👥 Team Details .
 
 | Sr. No. | Name of Student        | Roll No. | Branch                  | Email ID                                                                                |
 | ------- | ---------------------- | -------: | ----------------------- | --------------------------------------------------------------------------------------- |
