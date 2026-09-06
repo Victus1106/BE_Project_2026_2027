@@ -35,7 +35,7 @@ The system provides a foundation for low-cost assistive technology, rehabilitati
 
 ---
 
-# 👨‍🏫 Guide Details
+# 👨‍🏫 Guide Details . 
 
 **Project Guide:** Dr. Sangeeta Prasannaram / Kader Shaikh
 
@@ -45,7 +45,7 @@ The system provides a foundation for low-cost assistive technology, rehabilitati
 
 ---
 
-# 🎯 Problem Statement
+# 🎯 Problem Statement .
 
 Conventional eye-tracking systems generally rely on cameras, infrared illumination, or commercial gaze-tracking hardware. Although these systems can provide high accuracy, they can be expensive, computationally demanding, sensitive to environmental conditions, and difficult to implement in low-cost embedded systems.
 
