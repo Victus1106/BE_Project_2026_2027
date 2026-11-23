@@ -2,7 +2,9 @@
 
 ## 🎥 Project Demonstration Review 1 [![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/LLZSEM22tTs?si=Ve9w69eN5hiVtP-J)
 
-## 🎥 Final Review Presentation and demonstartion [![Watch the demo](https://youtu.be/kR2gsLY-l-E)
+## 🎥 Final Review Demonstration and project presentation
+
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/kR2gsLY-l-E)
 
 
 # EOG-Based Robotic Manipulator Control Using SVR Angle Prediction and SVM Direction Classification
